@@ -3,6 +3,10 @@
 InsertBotNameHere is a discord.js bot for your server.
 It has moderation, utility commands, fun commands, music, economy, and many more useful commands! 
 You can even add user-submitted, (botstaff-approved) plugins/commands [soon]. Please report any issues, suggestions or anything on the support server, (find it on the website) All the commands are listed on the website! 
+
+[![Discord Bots](https://discordbots.org/api/widget/status/344510588350627841.png?noavatar=true)](https://discordbots.org/bot/344510588350627841?utm_source=widget) 
+[![Discord Bots](https://discordbots.org/api/widget/servers/344510588350627841.png?noavatar=1)](https://discordbots.org/bot/344510588350627841?utm_source=widget)
+[![Discord Bots](https://discordbots.org/api/widget/upvotes/344510588350627841.png?noavatar=1)](https://discordbots.org/bot/344510588350627841?utm_source=widget)
  
 ## Okay, how do I get started? ##
 First off, add the bot to your server: [Add to my server](https://discordapp.com/oauth2/authorize/?permissions=536345719&scope=bot&client_id=344510588350627841)
