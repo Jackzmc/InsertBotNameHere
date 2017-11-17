@@ -1,4 +1,4 @@
-# InsertBotNameHere - a discord.js bot#
+# InsertBotNameHere - a discord.js bot #
 [Website](https://jackz.me/InsertBotNameHere)  |  [Add to my server](https://discordapp.com/oauth2/authorize/?permissions=536345719&scope=bot&client_id=344510588350627841)  |  [Support Server](https://discord.gg/9bVBdp7)
 InsertBotNameHere is a discord.js bot for your server.
 It has moderation, utility commands, fun commands, music, economy, and many more useful commands! 
